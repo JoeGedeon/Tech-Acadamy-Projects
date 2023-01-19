@@ -3,4 +3,4 @@ This is my text file
 This is another line in my text file
 This is a new line of text myFirstBranch
 Adding another modification to file1
-Adding mrge conflict
+
